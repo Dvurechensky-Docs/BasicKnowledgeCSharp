@@ -1,3 +1,4 @@
+<p align="center">✨Dvurechensky✨</p>
 <p align="center">
     <p align="center">
         <img src="Git/gitPreview.png" width="100%" alt="Banner">
@@ -73,3 +74,5 @@
 - 🌟 Как нарисовать треугольник в консоли
 
 Данная информация по C# проработанна мной с плейлиста грамотного канала 👊 [#SimpleCode](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N) 👊
+
+<p align="center">✨Dvurechensky✨</p>
