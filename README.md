@@ -16,7 +16,6 @@
 
 ## 🔰 Зависимости 
 - runtime-5.0.17 - **.NET 5.0 Desktop** - где [**скачать?**](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime?cid=getdotnetcore&os=windows&arch=x64)
-- полезная инфа - https://disk.yandex.ru/d/JO805r1zUVZ-XQ
 
 ## ♨️ Содержание
 
