@@ -1,3 +1,10 @@
+---
+layout: default
+title: 'Разбор 🍧 языка программирования C#'
+date: 2025-08-26
+published: true
+---
+
 <p align="center">✨Dvurechensky✨</p>
 <p align="center">
     <p align="center">
