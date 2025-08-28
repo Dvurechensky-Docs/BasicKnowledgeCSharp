@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/dvurechensky-docs/BasicKnowledgeCSharp/main/Git/gitPreview.png" width="100%" alt="Banner">
 </p>
+<h1 align="center">Разбор языка программирования C# 🍧</h1>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5+-+%D0%BC%D0%B0%D1%82%D1%8C+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" alt="Typing SVG" /></a>
 </p>
@@ -11,12 +12,15 @@
     <img src="https://shields.dvurechensky.pro/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
 </p>
 
-# Разбор языка программирования C# 🍧
+# ✨ Оглавление
 
-- [Разбор языка программирования C# 🍧](#разбор-языка-программирования-c-)
+- [✨ Оглавление](#-оглавление)
   - [🔰 Зависимости](#-зависимости)
   - [Темы 🏀](#темы-)
   - [Задачи ⚽](#задачи-)
+  - [Коллекция вопросов на собеседовании 💻](#коллекция-вопросов-на-собеседовании-)
+  - [Шаблоны проектирования. ООП. Тестирование. Коллекции. 🔱](#шаблоны-проектирования-ооп-тестирование-коллекции-)
+  - [C# паттерны - дополнение 📚](#c-паттерны---дополнение-)
 
 ## 🔰 Зависимости
 
@@ -126,5 +130,11 @@
 - 🌟 [Калькулятор `Switch` и на `If Else`.](<https://github.com/Dvurechensky-Docs/BasicKnowledgeCSharp/tree/main/LessonsAndTasks/Task Home 5 - Калькулятор Switch и на If Else>)
 - 🌟 [Как нарисовать треугольник в консоли.](<https://github.com/Dvurechensky-Docs/BasicKnowledgeCSharp/tree/main/LessonsAndTasks/Task Home 6 - Как нарисовать треугольник в консоли>)
 - 🌟 [Сумма чётных и нечётных чисел в диапазоне.](<https://github.com/Dvurechensky-Docs/BasicKnowledgeCSharp/tree/main/LessonsAndTasks/Task Home 6 - Сумма чётных и нечётных чисел в диапазоне>)
+
+## [Коллекция вопросов на собеседовании 💻](https://dvurechensky-docs.github.io/InterviewCSharpNet/)
+
+## [Шаблоны проектирования. ООП. Тестирование. Коллекции. 🔱](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/)
+
+## [C# паттерны - дополнение 📚](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)
 
 <p align="center">✨Dvurechensky✨</p>
