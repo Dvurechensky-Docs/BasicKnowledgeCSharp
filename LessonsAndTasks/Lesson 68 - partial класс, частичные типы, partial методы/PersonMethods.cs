@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 09 сентября 2025 11:11:42
- * Version: 1.0.21
+ * Last Updated: 10 сентября 2025 14:29:38
+ * Version: 1.0.22
  */
 
 partial class Person
