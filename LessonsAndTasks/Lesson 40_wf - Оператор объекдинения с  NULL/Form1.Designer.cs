@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 08 марта 2026 09:55:40
- * Version: 1.0.201
+ * Last Updated: 09 марта 2026 06:51:41
+ * Version: 1.0.202
  */
 
 partial class Form1
