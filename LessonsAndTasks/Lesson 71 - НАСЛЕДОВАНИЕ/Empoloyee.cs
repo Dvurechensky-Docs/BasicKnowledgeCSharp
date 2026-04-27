@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 26 апреля 2026 09:56:15
- * Version: 1.0.251
+ * Last Updated: 27 апреля 2026 09:40:12
+ * Version: 1.0.252
  */
 
 class Empoloyee : LP
