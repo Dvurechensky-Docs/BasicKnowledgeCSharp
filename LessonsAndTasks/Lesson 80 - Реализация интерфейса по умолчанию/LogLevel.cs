@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 17 июля 2026 10:59:08
- * Version: 1.0.335
+ * Last Updated: 18 июля 2026 07:26:05
+ * Version: 1.0.336
  */
 
 public enum LogLevel
